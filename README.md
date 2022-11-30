@@ -4,6 +4,7 @@
 ### Índex:  
 - [Representació 1: Timeline](#representació-1-timeline)
 - [Representació 2: Correlation Matrices](#representació-2-correlation-matrices)
+- [Representació 3: Bullet graph](#representació-3-bullet-graph)
 
 ### Representació 1: Timeline
 
