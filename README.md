@@ -33,7 +33,6 @@ Dataset: [#català947. La llengua catalana als municipis de Catalunya](https://a
 
 ![Bullet graph: Consecució objectius departament IT - 2022](/bullet-graph-pac2.png)
 
-Font de dades: Fitxer [BulletGraph PAC2.ods](\BulletGraph PAC2.ods).
-
+Font de dades: Fitxer [BulletGraph PAC2.ods](\BulletGraph-PAC2.ods).
 
 [Tornar a l'índex](#Índex)
