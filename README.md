@@ -2,8 +2,8 @@
 ## PAC2: Estudi de tècniques de visualització de dades
 
 ïndex:  
-- [Representació 1: Timeline](/"Representació 1: Timeline")
-- [Representació 2: Correlation Matrices](/"Representació 2: Correlation Matrices")
+- [Representació 1: Timeline](/#Representació-1-Timeline)
+- [Representació 2: Correlation Matrices](/#Representació-2-Correlation-Matrices)
 
 ### Representació 1: Timeline
 
