@@ -1,9 +1,9 @@
 # UOC - Visualització de dades PAC2
 ## PAC2: Estudi de tècniques de visualització de dades
 
-ïndex:  
-- [Representació 1: Timeline](#Representació-1-Timeline)
-- [Representació 2: Correlation Matrices](#Representació-2-Correlation-Matrices)
+### Índex:  
+- [Representació 1: Timeline](#representació-1-timeline)
+- [Representació 2: Correlation Matrices](#representació-2-correlation-matrices)
 
 ### Representació 1: Timeline
 
@@ -15,6 +15,7 @@ Font de dades:
  - **Plà docent de l'assignatura** "Visualització de dades" del Màster Universitari de la UOC  
  [Google spreadsheet amb les dates de les activitats](https://docs.google.com/spreadsheets/d/16WdZWK36rMBhqfcTwRZL-5e65WKP0u4bGnolf8jCv1g/edit#gid=0)
 
+[Tornar a l'índex](#ndex)
 
 ### Representació 2: Correlation Matrices
 
