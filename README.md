@@ -7,10 +7,6 @@
 
 ### Representació 1: Timeline
 
-URL: [Timeline: UOC - Visualització de dades](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16WdZWK36rMBhqfcTwRZL-5e65WKP0u4bGnolf8jCv1g&font=Default&lang=ca&initial_zoom=2&height=640)
-
-Captura: ![Timeline: UOC - Visualització de dades](/timeline-visualització-dades.jpg)  
-
 [![Timeline: UOC - Visualització de dades](/timeline-visualització-dades.jpg)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16WdZWK36rMBhqfcTwRZL-5e65WKP0u4bGnolf8jCv1g&font=Default&lang=ca&initial_zoom=2&height=640)
 
 Font de dades:
