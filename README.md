@@ -6,6 +6,7 @@
 
 URL: [Timeline: UOC - Visualització de dades](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16WdZWK36rMBhqfcTwRZL-5e65WKP0u4bGnolf8jCv1g&font=Default&lang=ca&initial_zoom=2&height=640)
 
+Captura: ![Timeline: UOC - Visualització de dades](/timeline-visualització-dades.jpg)
 Font de dades:
  - **Plà docent de l'assignatura** "Visualització de dades" del Màster Universitari de la UOC  
  [Google spreadsheet amb les dates de les activitats](https://docs.google.com/spreadsheets/d/16WdZWK36rMBhqfcTwRZL-5e65WKP0u4bGnolf8jCv1g/edit#gid=0)
