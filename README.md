@@ -15,7 +15,7 @@ Font de dades:
  - **Plà docent de l'assignatura** "Visualització de dades" del Màster Universitari de la UOC  
  [Google spreadsheet amb les dates de les activitats](https://docs.google.com/spreadsheets/d/16WdZWK36rMBhqfcTwRZL-5e65WKP0u4bGnolf8jCv1g/edit#gid=0)
  
- Nota: reaalitzat amb eina web: [Timeline JS de Knight Lab](https://timeline.knightlab.com/)
+ Nota: realitzat amb eina web: [Timeline JS de Knight Lab](https://timeline.knightlab.com/)
 
 [Tornar a l'índex](#Índex)
 
