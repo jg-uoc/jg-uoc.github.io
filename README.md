@@ -17,7 +17,7 @@ Font de dades:
 
 ### Representació 2: Correlation Matrices
 
-![Matriu de correlació sobre coneixements del català](/Correlació-Coneixements-Català.png)
+![Matriu de correlació sobre coneixements del català](/correlació-coneixements-català.png)
 
 Font de dades: [Dades obertes de la Generalitat de Catalunya](https://governobert.gencat.cat/ca/dades_obertes/inici/)  
 Dataset: [#català947. La llengua catalana als municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Societat-benestar/-catal-947-La-llengua-catalana-als-municipis-de-Ca/ct77-e63k)  
