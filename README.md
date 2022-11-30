@@ -27,3 +27,12 @@ Font de dades: [Dades obertes de la Generalitat de Catalunya](https://governober
 Dataset: [#català947. La llengua catalana als municipis de Catalunya](https://analisi.transparenciacatalunya.cat/Societat-benestar/-catal-947-La-llengua-catalana-als-municipis-de-Ca/ct77-e63k)  
 
 [Tornar a l'índex](#Índex)
+
+### Representació 3: Bullet graph
+
+![Bullet graph: Consecució objectius departament IT - 2022](/bullet-graph-pac2.png)
+
+Font de dades: Fitxer [BulletGraph PAC2.ods](\BulletGraph PAC2.ods).
+
+
+[Tornar a l'índex](#Índex)
