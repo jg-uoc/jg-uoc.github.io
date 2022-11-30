@@ -3,7 +3,7 @@
 
 ïndex:  
 - [Representació 1: Timeline](#Representació-1-Timeline)
-- [Representació 2: Correlation Matrices](#Representaci-2-Correlation-Matrices)
+- [Representació 2: Correlation Matrices](#Representació-2-Correlation-Matrices)
 
 ### Representació 1: Timeline
 
