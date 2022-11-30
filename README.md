@@ -13,7 +13,7 @@ Cal fer clic sobre la captura per accedir a la visualització Timeline interacti
 
 Font de dades:
  - **Plà docent de l'assignatura** "Visualització de dades" del Màster Universitari de la UOC  
- [Google spreadsheet amb les dates de les activitats](https://docs.google.com/spreadsheets/d/16WdZWK36rMBhqfcTwRZL-5e65WKP0u4bGnolf8jCv1g/edit#gid=0 =800x600)
+ [Google spreadsheet amb les dates de les activitats](https://docs.google.com/spreadsheets/d/16WdZWK36rMBhqfcTwRZL-5e65WKP0u4bGnolf8jCv1g/edit#gid=0 | width=640)
  
  Nota: reaalitzat amb eina web: [Timeline JS de Knight Lab](https://timeline.knightlab.com/)
 
